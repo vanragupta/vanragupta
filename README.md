@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">I like to code :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanragupta&label=Profile%20views&color=0e75b6&style=flat" alt="vanragupta" /> </p>
 
